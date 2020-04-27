@@ -1,2 +1,2 @@
-This is the first file in the First Branch. Modified from First Branch.
-Merge Test From First Branch.
+This is the first file in the master Branch. Modified from master Branch.
+Merge Test from master.
